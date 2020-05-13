@@ -70,3 +70,5 @@ while current_distance < target_distance:
     current_distance = current_distance * 1.1
     day = day + 1
 print('Ну на ', day,'-й день ты достигнешь своего результата, не менее', target_distance, ' км, красавчик!')
+
+#Вот и все
